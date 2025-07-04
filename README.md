@@ -28,3 +28,5 @@ This dashboard enables hospital staff and management to:
 .Gain a clear overview of patient demographics and flow
 
 This project reflects my ability to turn raw data into actionable insights through visualization and demonstrates practical use of data analytics in the healthcare domain.
+For more Visualized Visula's Please Checkout this given link:
+https://github.com/aabhhayy/CoerCare-Hospital-Patient-Report-Analysis/blob/main/coercare-dash-img.png
